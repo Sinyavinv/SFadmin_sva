@@ -1,0 +1,4 @@
+ansible.cfg
+hosts
+/common/files/*.pub
+/roles/add_users.yml
