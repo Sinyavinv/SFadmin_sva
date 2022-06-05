@@ -1,6 +1,3 @@
 hosts
 /common/files/*.pub
-<<<<<<< HEAD
 /roles/add_users.yml
-=======
->>>>>>> ansible-merge
