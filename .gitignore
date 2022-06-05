@@ -1,4 +1,5 @@
 ansible.cfg
 hosts
 /common/files/*.pub
-/roles/add_users.yml
+/roles/redis.yml
+/roles/zabbix.yml
