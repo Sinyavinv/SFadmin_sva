@@ -1,4 +1,2 @@
 hosts
 /common/files/*.pub
-/roles/zabbix.yml
-/roles/redis.yml
